@@ -12,7 +12,7 @@ https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch
 ubuntu:20.04  
 python 3.7  
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch  
-Other dependencies: cmapPy, Pandas, Matplotlib, Tqdm, scikit-learn, etc
+Other dependencies: cmapPy, Pandas, Matplotlib, Tqdm, scikit-learn, Jupyterlab, etc
 
 # 4. The procedure of utilizing DR3E-Net framework  
 ## 4.1. Train (Step 1)  
