@@ -34,7 +34,12 @@ I downloaded the following list of files and wrote them into jupyter notebook fi
 1) Run `find_drugs_acting_agnostic_to_DEG.ipynb`  
 
 ## 4.5. Preprocess SIDER and SAEDR databases and merge them with the outcome from Step 2 (Step 3)  
-1) Run `create_SIDER_side_effect_data.ipynb`  
+1) Download databases  
+   SIDER: http://sideeffects.embl.de/download/  
+   SAEDR & DRIP: https://www.jmir.org/2021/10/e27714  
+2) Set the paths of downloaded databases in the Jupyter notebook `create_SIDER_side_effect_data.ipynb`  
+![image](https://raw.githubusercontent.com/ymb943/DR3E-Net/main/prj_root/assets/image%20(55).png)
+3) Run `create_SIDER_side_effect_data.ipynb`  
 
 # 5. Loss decrease during 78 epochs  
 ![image](https://github.com/ymp432/deepEDR/assets/101608528/a83b7c9b-d166-4b0b-b82c-9207aa2c110e)
