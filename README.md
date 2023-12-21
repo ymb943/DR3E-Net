@@ -36,7 +36,7 @@ I downloaded the following list of files and wrote them into jupyter notebook fi
 ## 4.5. Preprocess SIDER and SAEDR databases and merge them with the outcome from Step 2 (Step 3)  
 1) Download databases  
    SIDER: http://sideeffects.embl.de/download/  
-   SAEDR & DRIP: https://www.jmir.org/2021/10/e27714  
+   SAEDR & DRIP (check appendix files): https://www.jmir.org/2021/10/e27714  
 2) Set the paths of downloaded databases in the Jupyter notebook `create_SIDER_side_effect_data.ipynb`  
 ![image](https://raw.githubusercontent.com/ymb943/DR3E-Net/main/prj_root/assets/load_SIDER_SAEDR.png)
 3) Run `create_SIDER_side_effect_data.ipynb`  
