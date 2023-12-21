@@ -38,7 +38,7 @@ I downloaded the following list of files and wrote them into jupyter notebook fi
    SIDER: http://sideeffects.embl.de/download/  
    SAEDR & DRIP: https://www.jmir.org/2021/10/e27714  
 2) Set the paths of downloaded databases in the Jupyter notebook `create_SIDER_side_effect_data.ipynb`  
-![image](https://raw.githubusercontent.com/ymb943/DR3E-Net/main/prj_root/assets/image%20(55).png)
+![image](https://raw.githubusercontent.com/ymb943/DR3E-Net/main/prj_root/assets/load_SIDER_SAEDR.png)
 3) Run `create_SIDER_side_effect_data.ipynb`  
 
 # 5. Loss decrease during 78 epochs  
